@@ -1,4 +1,5 @@
 import unittest
+# from comp import math, Human, a, b, c, d, e, f, g, h 
 from comp import *
 
 def compare_humans(inp, exp):
